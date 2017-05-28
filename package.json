@@ -1,0 +1,28 @@
+{
+  "name": "gicior",
+  "version": "1.0.0",
+  "description": "example-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jastakpawel/talktalk.git"
+  },
+  "keywords": [
+    "work"
+  ],
+  "author": "Pawel Jastak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jastakpawel/talktalk/issues"
+  },
+  "homepage": "https://github.com/jastakpawel/talktalk#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
